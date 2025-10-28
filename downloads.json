@@ -34,5 +34,11 @@
         "ip": "127.0.0.1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
         "timestamp": "2025-10-28T03:00:13.717562"
+    },
+    {
+        "file": "Blitz_StarkIsland3751",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1",
+        "timestamp": "2025-10-28T03:02:15.476221"
     }
 ]
