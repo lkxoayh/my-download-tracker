@@ -46,5 +46,11 @@
         "ip": "127.0.0.1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
         "timestamp": "2025-10-29T13:35:50.589885"
+    },
+    {
+        "file": "Pegasus3700",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-29T13:35:57.914641"
     }
 ]
