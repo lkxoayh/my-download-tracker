@@ -58,5 +58,53 @@
         "ip": "87.91.2.227",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
         "timestamp": "2025-10-30T13:40:33.964804Z"
+    },
+    {
+        "file": "Blitz_CitadelBuild-Up3630",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:29.429259Z"
+    },
+    {
+        "file": "Blitz_OathboundCitadelPOI3700",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:29.435918Z"
+    },
+    {
+        "file": "Blitz_MegaCityPOI-Ninja3630",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:29.442082Z"
+    },
+    {
+        "file": "Blitz_CitadelBuild-Up-NoGeode3630",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:29.444862Z"
+    },
+    {
+        "file": "Blitz_CitadelBuild-Up-NoGeode3700",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:29.449472Z"
+    },
+    {
+        "file": "Blitz_AsteriaAwakened3710",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:32.355984Z"
+    },
+    {
+        "file": "Blitz_AsteriaAwakened3720",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:32.361694Z"
+    },
+    {
+        "file": "Blitz_SlapFactoryPOI_3720",
+        "ip": "87.91.2.227",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+        "timestamp": "2025-10-30T13:40:33.149309Z"
     }
 ]
