@@ -76,5 +76,11 @@
         "ip": "127.0.0.1",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
         "timestamp": "2025-10-30T06:29:03.437845"
+    },
+    {
+        "file": "MetallicaEvent3750",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozila",
+        "timestamp": "2025-10-30T06:37:57.449472"
     }
 ]
